@@ -1,0 +1,6 @@
+age,body_weight,height_at_withers,body_length,chest_width,parity,historical_milk_yield,longevity,milk_productivity,reproductive_efficiency,elite_dam
+3,320,135,145,58,1,2200,8,2150,1.8,0
+4,350,140,150,60,2,2500,9,2400,1.7,1
+5,400,145,155,62,3,2600,10,2550,1.6,1
+6,420,150,158,63,4,2800,11,2750,1.55,1
+2,300,130,140,56,1,2000,7,2050,1.9,0
